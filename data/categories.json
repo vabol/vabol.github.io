@@ -1,0 +1,53 @@
+{
+  "error": "",
+  "response": [
+    {
+      "_id": "1",
+      "name": "Аксессуары",
+      "url": "accessories",
+      "thumb": "accessories.jpg"
+    },
+    {
+      "_id": "2",
+      "name": "Сумка",
+      "url": "bags",
+      "thumb": "bags.jpg"
+    },
+    {
+      "_id": "3",
+      "name": "Украшения",
+      "url": "decoration",
+      "thumb": "decoration.jpg"
+    },
+    {
+      "_id": "4",
+      "name": "Косметика",
+      "url": "cosmetics",
+      "thumb": "cosmetics.jpg"
+    },
+    {
+      "_id": "5",
+      "name": "Товары для дома",
+      "url": "household",
+      "thumb": "household.jpg"
+    },
+    {
+      "_id": "6",
+      "name": "Товары для детей",
+      "url": "kids",
+      "thumb": "kids.jpg"
+    },
+    {
+      "_id": "7",
+      "name": "Игрушки и куклы",
+      "url": "toys",
+      "thumb": "toys-and-dolls.jpg"
+    },
+    {
+      "_id": "8",
+      "name": "Женская одежда",
+      "url": "women",
+      "thumb": "women.jpg"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "error": "",
+  "response": [
+    {
+      "_id": "1",
+      "name": "Кожаный коричневый мужской кошелек",
+      "url": "product1",
+      "thumb": "product_1.jpg",
+      "price": "1200 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Черный кожаный мужской кошелек",
+      "url": "product2",
+      "thumb": "product_2.jpg",
+      "price": "980 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "3",
+      "name": "Красный кожаный кошелек",
+      "url": "product3",
+      "thumb": "product_3.jpg",
+      "price": "1050 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "4",
+      "name": "Черный кожаный портмоне",
+      "url": "product4",
+      "thumb": "product_4.jpg",
+      "price": "1150 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "5",
+      "name": "Плетеный кулон из бисера",
+      "url": "product5",
+      "thumb": "product_5.jpg",
+      "price": "670 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "6",
+      "name": "Яркие серьги из бисера на каждый день",
+      "url": "product6",
+      "thumb": "product_6.jpg",
+      "price": "770 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "7",
+      "name": "Серьги 'Голубой пион' полная форма",
+      "url": "product7",
+      "thumb": "product_7.jpg",
+      "price": "940 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "8",
+      "name": "Длинные бронзовые рыжие серьги",
+      "url": "product8",
+      "thumb": "product_8.jpg",
+      "price": "1440 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "9",
+      "name": "Бусы из прессованного коралла",
+      "url": "product9",
+      "thumb": "product_9.jpg",
+      "price": "1240 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    },
+    {
+      "_id": "10",
+      "name": "Цветочный браслет синего неба",
+      "url": "product10",
+      "thumb": "product_10.jpg",
+      "price": "440 руб.",
+      "images": [],
+      "categories": [
+        "bugs", "accessories"
+      ]
+    }
+  ]
+}
